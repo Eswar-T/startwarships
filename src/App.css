@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+
+.textcolor{
+  color: white;
+}
+
+.rowContent{
+  justify-content: space-between;
+  display: flex;
+  flex-direction: row;
+}
+
+.boxColor{
+  border: 1px solid white;
+  padding: 1vh;
+  margin: 1vh;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
